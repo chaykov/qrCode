@@ -1,0 +1,2 @@
+# qrCode
+Qr Code Component
